@@ -1,0 +1,6 @@
+@LogConsolePerformanceApi_HostAddress = http://localhost:5261
+
+GET {{LogConsolePerformanceApi_HostAddress}}/
+Accept: application/json
+
+###
